@@ -1,0 +1,276 @@
+{
+     "gameId": 2082353211,
+     "mapId": 12,
+     "gameMode": "ARAM",
+     "gameType": "MATCHED_GAME",
+     "gameQueueConfigId": 450,
+     "participants": [
+          {
+               "teamId": 100,
+               "spell1Id": 7,
+               "spell2Id": 4,
+               "championId": 202,
+               "profileIconId": 663,
+               "summonerName": "Focus Me Plss",
+               "bot": false,
+               "summonerId": 44086954,
+               "gameCustomizationObjects": [],
+               "perks": {
+                    "perkIds": [
+                         8021,
+                         9111,
+                         9103,
+                         8017,
+                         8236,
+                         8233,
+                         5008,
+                         5008,
+                         5001
+                    ],
+                    "perkStyle": 8000,
+                    "perkSubStyle": 8200
+               }
+          },
+          {
+               "teamId": 100,
+               "spell1Id": 4,
+               "spell2Id": 32,
+               "championId": 83,
+               "profileIconId": 3791,
+               "summonerName": "Blame My Vayne",
+               "bot": false,
+               "summonerId": 56956254,
+               "gameCustomizationObjects": [],
+               "perks": {
+                    "perkIds": [
+                         8437,
+                         8446,
+                         8473,
+                         8451,
+                         9111,
+                         8014,
+                         5007,
+                         5002,
+                         5003
+                    ],
+                    "perkStyle": 8400,
+                    "perkSubStyle": 8000
+               }
+          },
+          {
+               "teamId": 100,
+               "spell1Id": 7,
+               "spell2Id": 4,
+               "championId": 21,
+               "profileIconId": 3227,
+               "summonerName": "TheLoneLyGirl444",
+               "bot": false,
+               "summonerId": 55896081,
+               "gameCustomizationObjects": [],
+               "perks": {
+                    "perkIds": [
+                         8010,
+                         9111,
+                         9104,
+                         8014,
+                         8473,
+                         8446,
+                         5005,
+                         5002,
+                         5001
+                    ],
+                    "perkStyle": 8000,
+                    "perkSubStyle": 8400
+               }
+          },
+          {
+               "teamId": 100,
+               "spell1Id": 14,
+               "spell2Id": 4,
+               "championId": 107,
+               "profileIconId": 3505,
+               "summonerName": "Torquo",
+               "bot": false,
+               "summonerId": 62083651,
+               "gameCustomizationObjects": [],
+               "perks": {
+                    "perkIds": [
+                         8128,
+                         8143,
+                         8120,
+                         8106,
+                         9111,
+                         8014,
+                         5008,
+                         5008,
+                         5001
+                    ],
+                    "perkStyle": 8100,
+                    "perkSubStyle": 8000
+               }
+          },
+          {
+               "teamId": 100,
+               "spell1Id": 7,
+               "spell2Id": 4,
+               "championId": 1,
+               "profileIconId": 3814,
+               "summonerName": "heczeia",
+               "bot": false,
+               "summonerId": 56228905,
+               "gameCustomizationObjects": [],
+               "perks": {
+                    "perkIds": [
+                         8229,
+                         8226,
+                         8210,
+                         8236,
+                         9104,
+                         8014,
+                         5005,
+                         5008,
+                         5001
+                    ],
+                    "perkStyle": 8200,
+                    "perkSubStyle": 8000
+               }
+          },
+          {
+               "teamId": 200,
+               "spell1Id": 4,
+               "spell2Id": 32,
+               "championId": 112,
+               "profileIconId": 582,
+               "summonerName": "Farys Zabijaka",
+               "bot": false,
+               "summonerId": 33323032,
+               "gameCustomizationObjects": [],
+               "perks": {
+                    "perkIds": [
+                         8229,
+                         8226,
+                         8210,
+                         8236,
+                         8138,
+                         8126,
+                         5008,
+                         5008,
+                         5001
+                    ],
+                    "perkStyle": 8200,
+                    "perkSubStyle": 8100
+               }
+          },
+          {
+               "teamId": 200,
+               "spell1Id": 4,
+               "spell2Id": 13,
+               "championId": 84,
+               "profileIconId": 3800,
+               "summonerName": "demonofthekakomo",
+               "bot": false,
+               "summonerId": 37125168,
+               "gameCustomizationObjects": [],
+               "perks": {
+                    "perkIds": [
+                         8229,
+                         8226,
+                         8210,
+                         8236,
+                         8345,
+                         8347,
+                         5008,
+                         5008,
+                         5001
+                    ],
+                    "perkStyle": 8200,
+                    "perkSubStyle": 8300
+               }
+          },
+          {
+               "teamId": 200,
+               "spell1Id": 6,
+               "spell2Id": 4,
+               "championId": 15,
+               "profileIconId": 3804,
+               "summonerName": "WreckleSS",
+               "bot": false,
+               "summonerId": 38566055,
+               "gameCustomizationObjects": [],
+               "perks": {
+                    "perkIds": [
+                         8008,
+                         9111,
+                         9104,
+                         8014,
+                         8126,
+                         8138,
+                         5005,
+                         5008,
+                         5002
+                    ],
+                    "perkStyle": 8000,
+                    "perkSubStyle": 8100
+               }
+          },
+          {
+               "teamId": 200,
+               "spell1Id": 32,
+               "spell2Id": 4,
+               "championId": 105,
+               "profileIconId": 3808,
+               "summonerName": "FunkyFreak",
+               "bot": false,
+               "summonerId": 20629133,
+               "gameCustomizationObjects": [],
+               "perks": {
+                    "perkIds": [
+                         8112,
+                         8143,
+                         8138,
+                         8106,
+                         9111,
+                         8014,
+                         5008,
+                         5008,
+                         5003
+                    ],
+                    "perkStyle": 8100,
+                    "perkSubStyle": 8000
+               }
+          },
+          {
+               "teamId": 200,
+               "spell1Id": 4,
+               "spell2Id": 32,
+               "championId": 58,
+               "profileIconId": 691,
+               "summonerName": "undeathakos",
+               "bot": false,
+               "summonerId": 37547376,
+               "gameCustomizationObjects": [],
+               "perks": {
+                    "perkIds": [
+                         8112,
+                         8126,
+                         8138,
+                         8135,
+                         8446,
+                         8429,
+                         5005,
+                         5003,
+                         5001
+                    ],
+                    "perkStyle": 8100,
+                    "perkSubStyle": 8400
+               }
+          }
+     ],
+     "observers": {
+          "encryptionKey": "r4kApZfiWef77m7fANqEsLhpdggyisvd"
+     },
+     "platformId": "EUN1",
+     "bannedChampions": [],
+     "gameStartTime": 1543271260660,
+     "gameLength": 744
+}

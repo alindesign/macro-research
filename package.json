@@ -1,0 +1,12 @@
+{
+  "name": "macro-research",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alindesign/macro-research.git",
+  "author": "Dumitrana Alinus <alin.designstudio@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "moment": "^2.22.2"
+  }
+}
