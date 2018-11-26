@@ -32,6 +32,10 @@ const api = (method, url, params = {}, options = {}) => {
     );
 };
 
+/**
+ * Fetch last or live game
+ * @param {*} accountId 
+ */
 const fetchGame = (accountId) => (
     api('get', ROUTES.matches(accountId))
         .then(({ data: matches }) => {
