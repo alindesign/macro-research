@@ -6,6 +6,8 @@ const API_KEY = 'RGAPI-42192401-1b3b-4dfb-b6af-1c895ea838ba';
 const NAME = 'FocusMePlss';
 const HOST = 'https://eun1.api.riotgames.com';
 
+// Doar un comentariu
+
 const ROUTES = {
     summoner: (name) => `${HOST}/lol/summoner/v3/summoners/by-name/${name}`,
     account: (id) => `${HOST}/lol/summoner/v3/summoners/by-account/${id}`,
