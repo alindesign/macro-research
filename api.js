@@ -18,6 +18,8 @@ const ROUTES = {
     spectator: (id) => `${HOST}/lol/spectator/v3/active-games/by-summoner/${id}`,
 }
 
+// Simulate edit
+
 const api = (method, url, params = {}, options = {}) => {
     console.log(`Send ${method.toUpperCase()} ${url}`);
 
