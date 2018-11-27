@@ -1,5 +1,5 @@
 from datetime import datetime
-from bot.lib import readIO
+from lib import readIO
 
 if __name__ == "__main__":
     data = readIO.read_database('FocusMePlss', 'na1')
